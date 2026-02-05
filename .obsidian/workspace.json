@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "013f883d6e72f6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "de2e2e3b59c41595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6c9041f2380484",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "088e85a2b85fc4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GUIAS/Warframes/EXCALIBUR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EXCALIBUR"
+            }
+          },
+          {
+            "id": "b9c6925f9599d293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GUIAS/GUIA DE FARM DE WARFRAME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GUIA DE FARM DE WARFRAME"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03f9ed04e2ff4c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "428df6aa580374a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fdd2e46370a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "db422d0442069d00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4a435c87d1d0a468",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce3a09d518909b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fedd6b769bd20d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8a659d44469729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "71460010a2707273",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "e4caa1646e64c9a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "447f4bd6f55b58fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b9c6925f9599d293",
+  "lastOpenFiles": [
+    "FILES/EXCALIBUR/EXCALIBUR FULL.png",
+    "FILES/EXCALIBUR/EXCALIBUR PORTRAIT.png",
+    "FILES/EXCALIBUR",
+    "FILES/Nova pasta",
+    "GUIAS/GUIA DE FARM DE WARFRAME.md",
+    "README.md",
+    "GUIAS/Warframes/ZEPHYR.md",
+    "GUIAS/Warframes/YARELI.md",
+    "GUIAS/Warframes/XAKU.md",
+    "GUIAS/Warframes/WISP.md",
+    "GUIAS/Warframes/VORUNA.md",
+    "GUIAS/Warframes/VOLT.md",
+    "GUIAS/Warframes/VAUBAN.md",
+    "GUIAS/Warframes/VALKYR.md",
+    "GUIAS/Warframes/URIEL.md",
+    "GUIAS/Warframes/TRINITY.md",
+    "GUIAS/Warframes/TITANIA.md",
+    "GUIAS/Warframes/TEMPLE.md",
+    "GUIAS/Warframes/STYANAX.md",
+    "GUIAS/Warframes/SEVAGOTH.md",
+    "GUIAS/Warframes/SARYN.md",
+    "GUIAS/Warframes/RHINO.md",
+    "GUIAS/Warframes/REVENANT.md",
+    "GUIAS/Warframes/README.md",
+    "GUIAS/Warframes/QORVEX.md",
+    "GUIAS/Warframes/PROTEA.md",
+    "GUIAS/Warframes/ORAXIA.md",
+    "GUIAS/Warframes/OCTAVIA.md",
+    "GUIAS/Warframes/OBERON.md",
+    "Sem título",
+    "FILES/EXCALIBUR FULL.png",
+    "FILES",
+    "FILES/EXCALIBUR PORTRAIT.png",
+    "GUIAS/Warframes",
+    "GUIAS",
+    "MODULARES.base",
+    "GUIAS DE FARM MODULARES.base",
+    "Sem título 1.base",
+    "GUIA DE FARM de KITGUNS PARA MAESTRIA (6 CÂMARAS).obsidian"
+  ]
+}
