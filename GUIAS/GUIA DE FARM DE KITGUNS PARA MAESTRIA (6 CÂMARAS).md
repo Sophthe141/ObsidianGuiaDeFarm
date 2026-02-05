@@ -9,17 +9,17 @@
 ---
 
 ## 🟦 Reputação — Solaris United (Fortuna)
-- [x] Total necessário: **65.000 Standing**
+- [ ] Total necessário: **65.000 Standing**
 
 ---
 
 ## 🟩 Reputação — Entrati (Deimos)
-- [x] Total necessário: **10.000 Standing**
+- [ ] Total necessário: **10.000 Standing**
 
 ---
 
 ## 💸 Créditos
-- [x] Total necessário: **240.000 Créditos**
+- [ ] Total necessário: **240.000 Créditos**
 
 ---
 
@@ -72,13 +72,13 @@
 ## 🔫 Câmaras (Maestria)
 
 ### Fortuna
-- [x] Catchmoon
-- [x] Gaze
-- [x] Rattleguts
-- [x] Tombfinger
+- [ ] Catchmoon
+- [ ] Gaze
+- [ ] Rattleguts
+- [ ] Tombfinger
 
 ### Deimos
-- [x] Sporelacer
+- [ ] Sporelacer
 - [ ] Vermisplicer
 
 ---
